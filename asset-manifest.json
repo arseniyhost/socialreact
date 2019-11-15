@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/socialreact/static/css/main.9eda5fb3.chunk.css",
+    "main.js": "/socialreact/static/js/main.ca7b6c46.chunk.js",
+    "main.js.map": "/socialreact/static/js/main.ca7b6c46.chunk.js.map",
+    "runtime-main.js": "/socialreact/static/js/runtime-main.a8745954.js",
+    "runtime-main.js.map": "/socialreact/static/js/runtime-main.a8745954.js.map",
+    "static/js/2.a041b18c.chunk.js": "/socialreact/static/js/2.a041b18c.chunk.js",
+    "static/js/2.a041b18c.chunk.js.map": "/socialreact/static/js/2.a041b18c.chunk.js.map",
+    "static/css/3.beb3e4f3.chunk.css": "/socialreact/static/css/3.beb3e4f3.chunk.css",
+    "static/js/3.65b60762.chunk.js": "/socialreact/static/js/3.65b60762.chunk.js",
+    "static/js/3.65b60762.chunk.js.map": "/socialreact/static/js/3.65b60762.chunk.js.map",
+    "index.html": "/socialreact/index.html",
+    "precache-manifest.10a639c69e371df31e3d564ddb5022c2.js": "/socialreact/precache-manifest.10a639c69e371df31e3d564ddb5022c2.js",
+    "service-worker.js": "/socialreact/service-worker.js",
+    "static/css/3.beb3e4f3.chunk.css.map": "/socialreact/static/css/3.beb3e4f3.chunk.css.map",
+    "static/css/main.9eda5fb3.chunk.css.map": "/socialreact/static/css/main.9eda5fb3.chunk.css.map",
+    "static/media/loading.svg": "/socialreact/static/media/loading.c41d6278.svg",
+    "static/media/userMan.png": "/socialreact/static/media/userMan.d48a8973.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8745954.js",
+    "static/js/2.a041b18c.chunk.js",
+    "static/css/main.9eda5fb3.chunk.css",
+    "static/js/main.ca7b6c46.chunk.js"
+  ]
+}
